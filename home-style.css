@@ -1,0 +1,27 @@
+body{
+    background-color:#EDC7B7;
+
+}
+
+#heading{
+    color:#AC3B61;
+    font-family: Georgia, serif;
+    font-size:48px;
+    text-align:center;
+}
+
+.list{
+    border: 2px solid #AC3B61;
+    background-color: #EEE2DC;
+    color: #123C69;
+    padding:2px;
+    margin:25px auto;
+
+}
+
+.con{
+    border:2px dotted #123C69;
+    margin:80px auto;
+    width:200px;
+    height: 250px;
+}
